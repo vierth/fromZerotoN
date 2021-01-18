@@ -7,6 +7,8 @@ If you are a William & Mary student interested in doing research in my digital h
 ## Streaming on YouTube
 The bootcamp stream will be [on my YouTube channel](https://www.youtube.com/user/pvierth)<br>
 January 18th to the 22nd, 1pm to 3pm Eastern
+[Test stream from Saturday](https://www.youtube.com/watch?v=a9cPL6l2WcE&t=20s)
+
 
 ## Materials for From Zero To N (Grams): A Very Basic Bootcamp for Text Analysis in Python
 Sample code, demo corpora, and software installation instructions will all appear here in this repository

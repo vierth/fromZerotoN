@@ -9,7 +9,8 @@ Do note that we will be interacting with our computers at a lower level than you
 ## Streaming on YouTube
 The bootcamp stream will be [on my YouTube channel](https://www.youtube.com/user/pvierth)<br>
 January 18th to the 22nd, 1pm to 3pm Eastern<br>
-[Test stream from Saturday](https://www.youtube.com/watch?v=a9cPL6l2WcE&t=20s)
+[Test stream from Saturday](https://www.youtube.com/watch?v=a9cPL6l2WcE&t=20s)<br>
+[Day 1](https://www.youtube.com/watch?v=4U1WLrwnx20)
 
 
 ## Materials for From Zero To N (Grams): A Very Basic Bootcamp for Text Analysis in Python

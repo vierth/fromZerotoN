@@ -12,6 +12,7 @@ January 18th to the 22nd, 1pm to 3pm Eastern<br>
 [Test stream from Saturday](https://www.youtube.com/watch?v=a9cPL6l2WcE&t=20s)<br>
 [Day 1](https://www.youtube.com/watch?v=4U1WLrwnx20)<br>
 [Day 2](https://www.youtube.com/watch?v=cnoR9Ml5pdU)<br>
+[Day 3](https://www.youtube.com/watch?v=nCbuQpbkJWA)<br>
 
 
 ## Materials for From Zero To N (Grams): A Very Basic Bootcamp for Text Analysis in Python
